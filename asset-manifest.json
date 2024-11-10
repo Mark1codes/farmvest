@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/farmvest/static/css/main.e6c13ad2.css",
+    "main.js": "/farmvest/static/js/main.acb9532d.js",
+    "static/js/453.79ef4734.chunk.js": "/farmvest/static/js/453.79ef4734.chunk.js",
+    "index.html": "/farmvest/index.html",
+    "main.e6c13ad2.css.map": "/farmvest/static/css/main.e6c13ad2.css.map",
+    "main.acb9532d.js.map": "/farmvest/static/js/main.acb9532d.js.map",
+    "453.79ef4734.chunk.js.map": "/farmvest/static/js/453.79ef4734.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.acb9532d.js"
+  ]
+}
